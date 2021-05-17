@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right top, #051937, #004976, #007f9f, #00b7a3, #12eb83);
+}
+
+#one{
+width: 400px;
+
+display: flex;
+    justify-content: center;
+    align-items: center;
+
+background-image: linear-gradient(to right top, #051937, #2d2860, #653080, #a72c93, #eb1296);
+height: 200px;
+}
+
+button{
+    width: 50px;
+    height: 50px;
+
+}
+
+button:hover{
+    cursor:pointer;
+}
+
+#green{
+    background-color: green;
+}
+
+#orange{
+    background-color: orangered;
+}
+
+#grey{
+    background-color: grey;
+}
